@@ -12,7 +12,7 @@ I vibe coded it for me, maybe you will find it useful.
 
 <h2>Features:</h2>
 Searching DayZ servers by name, saving them to bookmarks, saving servers to bookmarks manually, bookmark system.
-When combined with dayz-linux-cli-launcher acts as GUI launcher.
+<h3>When combined with dayz-linux-cli-launcher acts as GUI launcher.</h3>
 
 <h1>Saved bookmarks</h1>
 <img width="853" height="697" alt="image" src="https://github.com/user-attachments/assets/33472864-b461-4ba2-8637-0e0d183521c5" />
