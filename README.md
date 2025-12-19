@@ -1,14 +1,16 @@
 GUI that relies on https://github.com/bastimeyer/dayz-linux-cli-launcher
 
-I vibe coded it for personal use, maybe you will find it useful.
+I vibe coded it for me, maybe you will find it useful.
 
-How to use:
-Download dayz-linux-cli-launcher from github and set it up to work in the same folder as this dayz-launcher-gui.
+<h1>How to use:</h1>
+
+<h2>Download dayz-linux-cli-launcher from github and set it up to work in the same folder as this dayz-launcher-gui.</h2>
+	
 You will need to add API key from battlemetrics either to your start.sh or your system enviromental variable.
 
 After adding the API key, use command: "./start.sh"
 
-Features: 
+<h2>Features:</h2>
 Searching DayZ servers by name, saving them to bookmarks, saving servers to bookmarks manually, bookmark system.
 When combined with dayz-linux-cli-launcher acts as GUI launcher.
 
