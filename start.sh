@@ -1,3 +1,3 @@
 #add your API token below
 #you can also add the enviromental variable globally on your system if preffered
-env BATTLEMETRICS_TOKEN=Your_BattleMetrics_API_token_here python3 DayZ-Bookmarks.py
+env BATTLEMETRICS_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImMyZjk1ZDg0NGEyYTZiM2UiLCJpYXQiOjE3NjYwODU1NDMsIm5iZiI6MTc2NjA4NTU0MywiaXNzIjoiaHR0cHM6Ly93d3cuYmF0dGxlbWV0cmljcy5jb20iLCJzdWIiOiJ1cm46dXNlcjoxMTI2MDQzIn0.COIRCRivSSwIZeBmSU-_IIuh7bO4STAGRuKwcjI-sg4 python3 DayZ-Bookmarks.py
