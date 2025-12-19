@@ -1,6 +1,6 @@
 GUI that relies on https://github.com/bastimeyer/dayz-linux-cli-launcher
 
-It's made for me, maybe you will find it useful.
+I vibe coded it for personal use, maybe you will find it useful.
 
 How to use:
 Download dayz-linux-cli-launcher from github and set it up to work in the same folder as this dayz-launcher-gui.
