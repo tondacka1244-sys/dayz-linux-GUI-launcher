@@ -6,7 +6,7 @@ I vibe coded it for me, maybe you will find it useful.
 
 <h2>Download dayz-linux-cli-launcher from github and set it up to work in the same folder as this dayz-launcher-gui.</h2>
 	
-You will need to add API key from battlemetrics either to your start.sh or your system enviromental variable.
+<h2>You will need to add API key from battlemetrics either to your start.sh or your system enviromental variable.</h2>
 
 After adding the API key, use command: "./start.sh"
 
