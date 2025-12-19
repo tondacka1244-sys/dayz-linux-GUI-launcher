@@ -8,16 +8,16 @@ I vibe coded it for me, maybe you will find it useful.
 	
 <h2>You will need to add API key from battlemetrics either to your start.sh or your system enviromental variable.</h2>
 
-After adding the API key, use command: "./start.sh"
+<h3>After adding the API key, use command: "./start.sh"</h3>
 
 <h2>Features:</h2>
 Searching DayZ servers by name, saving them to bookmarks, saving servers to bookmarks manually, bookmark system.
 When combined with dayz-linux-cli-launcher acts as GUI launcher.
 
-Saved bookmarks
+<h1>Saved bookmarks</h1>
 <img width="853" height="697" alt="image" src="https://github.com/user-attachments/assets/33472864-b461-4ba2-8637-0e0d183521c5" />
 
 
 
-Searching servers by name
+<h1>Searching servers by name</h1>
 <img width="854" height="577" alt="image" src="https://github.com/user-attachments/assets/c8930f68-ded7-4cab-9ebe-a8a3abf4cfe2" />
