@@ -14,7 +14,7 @@ I vibe coded it for me, maybe you will find it useful.
 <h2>Features:</h2>
 Searching DayZ servers by name, saving them to bookmarks, saving servers to bookmarks manually, bookmark system.
 <h3>When combined with dayz-linux-cli-launcher acts as GUI launcher.</h3>
-TODO: Fix ping in search.py
+TODO: Fix ping in search.py, fix refreshing bookmarks after saving a server
 <h1>Saved bookmarks</h1>
 <img width="853" height="697" alt="image" src="https://github.com/user-attachments/assets/33472864-b461-4ba2-8637-0e0d183521c5" />
 
